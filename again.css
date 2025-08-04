@@ -1,0 +1,27 @@
+#workwithus{
+    color: white;
+    font-weight: 700;
+    padding: 40px;
+    display: flex;
+}
+#left-section{
+    width: 60%;
+}
+#right-section{
+    width: 40%;
+}
+#right-section img{
+    width: 500px;
+    
+}
+.services{
+    margin-top: 40px;
+    display: flex;
+    gap: 27px;
+    justify-content: space-around;
+}
+.services div{
+    display: flex;
+    gap: 17px;
+    font-size: 20px;
+}

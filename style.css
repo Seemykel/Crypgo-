@@ -1,0 +1,27 @@
+.third{
+    color: white;
+    display: flex;
+}
+.centerr{
+    margin-top: 20px;
+    margin-right: 80px;
+    width: 60%;
+}
+.centerr img{
+    width: 800px;
+    height: 800px;
+}
+.lefty{
+    width: 20%;
+}
+.lefty nav{
+    font-size: 21px;
+    margin: 100px 0px 250px 70px ;
+}
+.righty{
+    width: 20%;
+}
+.righty nav{
+    font-size: 21px;
+    margin: 100px 10px 300px 10px;
+}

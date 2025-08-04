@@ -1,0 +1,12 @@
+.sca{
+    display: flex;
+    border-radius: 8px;
+    border: 2px solid rgba(255, 255, 255, 0.26);
+    padding: 40px;
+    box-shadow:  2px 0px 13px;
+    color: white;
+}
+.sca div{
+    margin-left: 100px;
+    align-items: center;
+}

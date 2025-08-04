@@ -1,0 +1,65 @@
+footer{
+    padding: 40px 20px;
+    color: white;
+    margin-left: 150px;
+}
+.footer{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+.brand h2{
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+.socials a{
+    margin-right: 10px;
+    font-size: 22px;
+    text-decoration: none;
+}
+.links{
+    display: flex;
+    gap: 50px;
+}
+.links h4{
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+.links ul{
+    list-style: none;
+    padding: 0;
+}
+.links ul li a{
+    color: white;
+    text-decoration: none;
+    margin-bottom: 10px;
+    display: block;
+}
+.links ul li a:hover{
+    color: #00ff99;
+}
+.Subscribe p{
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+/* .Subscribe form{
+    display: flex;
+    
+} */
+.Subscribe input{
+    padding: 10px 12px;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: transparent;
+}
+.Subscribe button{
+    background-color: transparent;
+    padding: 8px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.Subscribe button:hover{
+    color: white;
+}
